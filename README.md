@@ -1,6 +1,6 @@
-Hii, I’m Ankit Kashyap
+Hii, my name is Ankit Kumar
 I’m interested in solving coding questions, web development and problem solving
-I’m currently learning Data Structure and Algorithms and frontend development
+I’m currently working as a full stack developer.
 You can connect with me on linkedIn - https://www.linkedin.com/in/ankit-kashyap-42a48421a
 
 <!---
